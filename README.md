@@ -12,8 +12,6 @@ Frontend em **React**, backend em **Node.js + Express + MongoDB**.
 - Node.js, Express
 - MongoDB
 
-## 📸 Screenshots
-![Task Manager Screenshot](screenshot.png)
 
 ## 🛠️ Como rodar
 ### Backend
