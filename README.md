@@ -1,4 +1,21 @@
-# Bnacl
+**Task Manager**
+```markdown
+# ✅ Task Manager
 
---- 
-new a form for a react.js omg its is so ggod
+Aplicação Fullstack de lista de tarefas (CRUD).  
+Frontend em **React**, backend em **Node.js + Express + MongoDB**.
+
+## 🚀 Tecnologias
+- React, TailwindCSS
+- Node.js, Express
+- MongoDB
+
+## 📸 Screenshots
+![Task Manager Screenshot](screenshot.png)
+
+## 🛠️ Como rodar
+### Backend
+```bash
+cd backend
+npm install
+npm start
