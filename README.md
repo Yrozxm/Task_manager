@@ -1,7 +1,8 @@
+
 ---
 
-**Task Manager**
-```markdown
+## **Task Manager**
+
 # ✅ Task Manager
 
 Aplicação Fullstack de lista de tarefas (CRUD).  
@@ -11,7 +12,6 @@ Frontend em **React**, backend em **Node.js + Express + MongoDB**.
 - React, TailwindCSS
 - Node.js, Express
 - MongoDB
-
 
 ## 🛠️ Como rodar
 ### Backend
