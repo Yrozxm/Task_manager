@@ -9,7 +9,7 @@ Aplicação Fullstack de lista de tarefas (CRUD).
 Frontend em **React**, backend em **Node.js + Express + MongoDB**.
 
 ## 🚀 Tecnologias
-- React, TailwindCSS
+- React, TailwindCss
 - Node.js, Express
 - MongoDB
 
